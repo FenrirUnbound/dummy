@@ -1,0 +1,23 @@
+{
+  "name": "dummy-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "destroy.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FenrirUnbound/dummy.git"
+  },
+  "author": "Darren Matsumoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FenrirUnbound/dummy/issues"
+  },
+  "homepage": "https://github.com/FenrirUnbound/dummy#readme",
+  "private": true,
+  "dependencies": {
+    "async": "^2.0.0-rc.6"
+  }
+}
